@@ -1,2 +1,27 @@
 # SQL-Queries
-Performed SQL data analysis on the Superstore dataset using MySQL. Implemented queries with SELECT, WHERE, ORDER BY, GROUP BY, JOINS, subqueries, aggregate functions and views to extract meaningful insights. Included SQL scripts and query output screenshots as part of the project.
+
+## Project Overview
+This repository contains SQL queries created using MySQL on the Superstore dataset. The project demonstrates fundamental SQL concepts and data retrieval techniques.
+
+## Dataset
+- Superstore Dataset (CSV)
+
+## Topics Covered
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- Aggregate Functions
+- JOINS
+- Subqueries
+- Views
+- Indexes
+
+## Files
+- `SQL Queries.sql` – Contains all SQL queries.
+- `Superstore_dataset.csv` – Dataset used for analysis.
+- `Screenshots/` – Screenshots of query execution and outputs.
+
+## Tools Used
+- MySQL Workbench
+- GitHub
